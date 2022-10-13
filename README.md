@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on: FNF Altronix Engine
 - 🌱 I’m currently learning: Haxe
 - ⚡ Fun fact: I hate Psych Engine lua
+-  📫 How to reach me: [My discord](https://discord.com/users/324794944042565643) 
 
 <!--
 **AltronMaxX/AltronMaxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
