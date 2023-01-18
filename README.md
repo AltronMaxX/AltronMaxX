@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: FNF Altronix Engine
-- 🌱 I’m currently learning: Haxe
+- 🔭 I’m currently working on: FNF Altronix Engine and an exclusive discord bot
+- 🌱 I’m currently learning: Haxe and C#
 - ⚡ Fun fact: I hate Psych Engine lua
 -  📫 How to reach me: [My discord](https://discord.com/users/324794944042565643) 
 
