@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: FNF Altronix Engine, Foldenor and Edenor bot (Special for Edenor Minecraft server) 
-- 🌱 I’m currently learning: Haxe and C#
+- 🌱 I’m currently learning: Haxe, C# and Java
 - ⚡ Fun fact: I hate Psych Engine lua
 -  📫 How to reach me: [My discord](https://discord.com/users/324794944042565643) 
 
